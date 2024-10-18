@@ -1,7 +1,3 @@
-Here’s a suggested `README.md` file for your OpenVPN brute force script:
-
----
-
 # OpenVPN Brute Force Tool
 
 This Python script is designed to brute force the key password for an OpenVPN client configuration using a wordlist. The script attempts different passwords from the wordlist until it successfully finds the correct one or exhausts all options.
