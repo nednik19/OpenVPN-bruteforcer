@@ -2,7 +2,7 @@
 
 This Python script is designed to brute force the key password for an OpenVPN client configuration using a wordlist. The script attempts different passwords from the wordlist until it successfully finds the correct one or exhausts all options.
 
-###Note: Script should be running with sudo.
+### Note: Script should be running with sudo.
 
 ## Prerequisites
 
