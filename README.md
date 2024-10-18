@@ -62,7 +62,7 @@ This Python script is designed to brute force the key password for an OpenVPN cl
 3. **Run the script**:
    Run the Python script:
    ```bash
-   python3 openvpn_bruteforcer.py
+   python3 bruteforcer.py
    ```
 
 4. **Monitor the output**:
